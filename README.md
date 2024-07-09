@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Khandaker S M Jiad
 - 👋 Expert in Manual Testing and API testing
-- 👀 I’m interested in SQA Automation
-- 🌱 I’m currently learning Java, Python, Selenium, Jmeter, Postman etc.
+- 👀 Sound knowledge in Load Testing
+- 🌱 I’m currently learning SQA Automation
 - 📫 fb.com/ziadkhandakar , linkedin.com/in/khandaker-s-m-jiad-91955228/
 
 <!---
